@@ -18,7 +18,7 @@
                 },
                 "rules": [
                     {
-                        "description": "FN + Space to Fn + Ctrl + F10",
+                        "description": "FN + Space to F20",
                         "manipulators": [
                             {
                                 "from": {
@@ -31,11 +31,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "f10",
-                                        "modifiers": [
-                                            "left_control",
-                                            "fn"
-                                        ]
+                                        "key_code": "f20"
                                     }
                                 ],
                                 "type": "basic"
